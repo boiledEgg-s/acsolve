@@ -41,13 +41,3 @@ class Main {
         br.close();
     }
 }
-/*
-1
-6
-a g
-b g
-c g
-d h
-e h
-f i
- */
